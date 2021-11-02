@@ -63,6 +63,7 @@ Project Highlights
 Skills
 ------
 **Programming Language:** Python, Java, JavaScript, SQL, C, C++, C#, HTML, CSS, R, Shell
+
 **Framework/Tool:** Node.js, Express, Flask, React, Vue, ASP.NET Core, Hadoop, Hive, Docker, Kibana, Logstash, Kythe, Git
+
 **Database:** MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, Druid
-s
