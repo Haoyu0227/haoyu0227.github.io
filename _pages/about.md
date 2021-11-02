@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Haoyu Wang, a graduate student in CS at UIUC. I have a handsome boyfriend Daniel =)
+Hi, I’m Haoyu Wang, a graduate student in CS at University of Illinois at Urbana-Champaign(https://cs.illinois.edu/). I have a handsome boyfriend Daniel =)
 
 
-I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m adept at React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. I conducted extensive internships and projects. I was a software engineer intern at NetEase in 2020 and Xiaomi in 2021. I’m now actively seeking Summer 2022 SWE Intern opportunities.
+I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m adept at React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. I conducted extensive internships and projects. I was a software engineer intern at NetEase(https://ir.netease.com/) in 2020 and Xiaomi(https://www.mi.com/global/about/) in 2021. I’m now actively seeking Summer 2022 SWE Intern opportunities.
 
 Education
 ------
