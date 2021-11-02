@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Haoyu Wang, a graduate student in CS at University of Illinois at Urbana-Champaign(https://cs.illinois.edu/). I have a handsome boyfriend Daniel =)
+I am a graduate student in [CS at University of Illinois at Urbana-Champaign](https://cs.illinois.edu/). Before that, I obtained my B.S. degree in Statistics & Computer Science, from [University of Illinois at Urbana-Champaign](https://illinois.edu/). I have a handsome boyfriend Daniel =)
 
 
 I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m adept at React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. I conducted extensive internships and projects. I was a software engineer intern at [NetEase](https://ir.netease.com/) in 2020 and [Xiaomi](https://www.mi.com/global/about/) in 2021. I’m now actively seeking Summer 2022 SWE Intern opportunities.
@@ -27,18 +27,18 @@ Education
 
 Experience
 ------
-  * **06/2020 - 08/2020, [NetEase, Inc.](https://ir.netease.com/)**
+  * **06/2020 - 08/2020, Software Engineer Intern @ [NetEase, Inc.](https://ir.netease.com/)**
     * Designed querying system for user records of NetEase CC Live Broadcast, currently used by 200+ operations managers
     * Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
     * Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
     * Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
     * Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
-  * **06/2021 - 08/2021, [Xiaomi Corporation](https://www.mi.com/global/about/)**
+  * **06/2021 - 08/2021, Software Engineer Intern @ [Xiaomi Corporation](https://www.mi.com/global/about/)**
     * Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
     * Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
     * Visualized cross-references of MIUI with Kythe tools on web UI, assisting 3000+ developers of Xiaomi mobile phone
     department in navigation of code
-  * **08/2020 - 12/2020, [ClassTranscribe -- open-source video lecture platform of UIUC](https://classtranscribe.illinois.edu/)**
+  * **08/2020 - 12/2020, Full Stack Developer @ s[ClassTranscribe -- open-source video lecture platform of UIUC](https://classtranscribe.illinois.edu/)**
     * Implemented Google-like search engine based on Elasticsearch for ClassTranscribe, benefitting 1000+ UIUC students
     * Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
     * Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos
