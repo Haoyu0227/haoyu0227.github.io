@@ -28,13 +28,13 @@ Education
 
 Experience
 ------
-  * **06/2020 - 08/2020, Software Engineer Intern @ [NetEase, Inc.](https://ir.netease.com/)**
+  * **06/2020 - 08/2020, Software Engineer Intern @ [NetEase, Inc.](https://www.linkedin.com/company/netease/)**
     * Designed querying system for user records of NetEase CC Live Broadcast, currently used by **200+** operations managers
     * Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
     * Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
     * Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
     * Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
-  * **06/2021 - 08/2021, Software Engineer Intern @ [Xiaomi Corporation](https://www.mi.com/global/about/)**
+  * **06/2021 - 08/2021, Software Engineer Intern @ [Xiaomi Corporation](https://www.linkedin.com/company/xiaomi-technology/)**
     * Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
     * Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
     * Visualized cross-references of MIUI with Kythe tools on web UI, assisting **3000+** developers of Xiaomi mobile phone
