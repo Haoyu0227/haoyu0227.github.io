@@ -39,7 +39,7 @@ Experience
     * Visualized cross-references of MIUI with Kythe tools on web UI, assisting **3000+** developers of Xiaomi mobile phone
     department in navigation of code
   * **08/2020 - 12/2020, Full Stack Developer @ [ClassTranscribe](https://classtranscribe.illinois.edu/)**
-    * Implemented Google-like search engine based on Elasticsearch for ClassTranscribe(open-source video lecture platform of UIUC), benefitting **1000+** UIUC students
+    * Implemented Google-like search engine based on ELK Stack for ClassTranscribe(open-source video lecture platform of UIUC), benefitting **1000+** UIUC students
     * Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
     * Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos
     using NEST with ASP.NET Core
