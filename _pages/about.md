@@ -12,7 +12,6 @@ I am a graduate student in [University of Illinois Department of Computer Scienc
 
 I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m experienced in React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. I conducted extensive internships and projects. I was a software engineer intern at [NetEase](https://www.linkedin.com/company/netease/) in 2020 and [Xiaomi](https://www.linkedin.com/company/xiaomi-technology/) in 2021. I’m now actively seeking Summer 2022 SWE Intern opportunities.
 
-I have a handsome boyfriend Daniel =)
 
 
 Education
