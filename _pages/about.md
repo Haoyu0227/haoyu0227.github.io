@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student in [University of Illinois Department of Computer Science](https://cs.illinois.edu/). Before that, I obtained my B.S. degree in Statistics & Computer Science, from [University of Illinois at Urbana-Champaign](https://illinois.edu/). 
 
-I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m experienced in React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. Except excellent academic performace, I conducted extensive internships and projects. I was a software engineer intern at [NetEase](https://www.linkedin.com/company/netease/) in 2020 and [Xiaomi](https://www.linkedin.com/company/xiaomi-technology/) in 2021. I will Join Meta as a SWE Intern during Summer 2022!
+I have a strong background in full stack development. For backend techniques, I’m skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. For frontend, I’m experienced in React.js, Vue.js, CSS. I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. Except excellent academic performace, I conducted extensive internships and projects. I was a software engineer intern at [NetEase](https://www.linkedin.com/company/netease/) in 2020 and [Xiaomi](https://www.linkedin.com/company/xiaomi-technology/) in 2021. I will join Meta as a SWE Intern during Summer 2022!
 
 Education
 ------
