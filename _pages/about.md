@@ -27,38 +27,38 @@ Education
 Experience
 ------
   * **06/2020 - 08/2020, Software Engineer Intern @ [NetEase, Inc.](https://www.linkedin.com/company/netease/)**
-    * Designed querying system for user records of NetEase CC Live Broadcast, currently used by **200+** operations managers
+    * Designed a querying system for user records of NetEase CC Live Streaming, which serves 200+ operations managers
     * Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
-    * Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
-    * Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
-    * Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
+    * Queued Hadoop search tasks with Redis Queue and visualized each task’s position
+    * Created function using Elasticsearch for searching user records among tens of millions recent records; reduced search time from half an hour to seconds
+    * Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX and CSS
+
   * **06/2021 - 08/2021, Software Engineer Intern @ [Xiaomi Corporation](https://www.linkedin.com/company/xiaomi-technology/)**
-    * Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
-    * Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
-    * Visualized cross-references of MIUI with Kythe tools on web UI, assisting **3000+** developers of Xiaomi mobile phone
-    department in navigation of code
+    * Collaborated with 3 software engineers to create cross-references of MIUI (Android Open Source Project, over 100 million users) which assisted 3000+ developers in code navigation
+    * Built MIUI; extracted and indexed compilations with Kythe tools in shell scripts
+    * Applied Java API, multiple processes and mutex to write over 30 TB indexer’s output to HDFS
+    * Visualized cross-references of MIUI with Kythe tools on web UI
+
   * **08/2020 - 12/2020, Full Stack Developer @ [ClassTranscribe](https://classtranscribe.illinois.edu/)**
-    * Implemented Google-like search engine based on ELK Stack for ClassTranscribe(open-source video lecture platform of UIUC), benefitting **1000+** UIUC students
+    * Implemented a Google-like search engine with ELK Stack for ClassTranscribe which benefitted 1000+ UIUC students
     * Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
-    * Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos
-    using NEST with ASP.NET Core
+    * Developed search engine features that support incremental, fuzzy and full-text search for course video captions via
+ASP.NET Core and NEST
 
 
 Project Highlights
 ------
 * **[UIUC Tutor Online](https://uiuctutor.web.illinois.edu/x/)**
-  * Led team of 4 to develop responsive swebsite UIUC Tutors Online pairing students and tutors at UIUC
-  * Developed backend in Python using Flask web framework; deployed MySQL, MongoDB databases on Docker
-  * Created RESTful APIs performing tasks such as register, login/logout, searching tutors, giving ratings and comments
-  * Designed interactive web pages with JavaScript, AJAX, HTML, CSS, Bootstrap
-  * Built a recommendation engine recommending tutors for students with Collaborative Filtering in SQL
+  * Led a team of 4 to develop responsive website that pairs students and tutors at UIUC
+  * Developed a Python backend using Flask web framework; deployed MySQL and MongoDB databases on Docker
+  * Created RESTful APIs to perform tasks such as register, login/logout, searching tutors, giving ratings and comments
+  * Built a recommendation engine that suggests tutors to students with Collaborative Filtering in SQL
 
 * **There’s A Good Match**
-  * Implemented web application helping people with disabilities find matching jobs based on Node.js
-  * Processed job information data scraped from online postings and store into MongoDB Atlas
-  * Utilized Express.js, Mongoose to develop RESTful APIs to handle HTTP requests and responses
-  * Designed responsive frontend using React.js, CSS; set up Redis for web page caching
-
+  * Leveraged a web crawler to process job information from online postings and stored into MongoDB Atlas
+  * Utilized Node.js, Express.js and Mongoose to develop RESTful APIs to handle HTTP requests and responses
+  * Designed responsive frontend based on React.js; set up Redis for web page caching
+  
 Skills
 ------
 **Programming Language:** Python, Java, JavaScript, SQL, C, C++, C#, HTML, CSS, R, Shell
